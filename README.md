@@ -9,7 +9,8 @@ This application is designed to be to your right-hand man through your financial
 * PWA
 
 ## Usage 
-(link & screenshot)
+
+![Image](./images/budget.png)
 
 ## Contribution
 Geran Vanatta
